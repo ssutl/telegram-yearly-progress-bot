@@ -1,9 +1,8 @@
 # Telegram Yearly Progress Bot
 A quick project I created to remind the fam on the Telegram GC that we got to keep going. Regular reminders of our progress through the year to ensure everyone is on track and fufilling full potential ⚡
 
-
-![image](https://github.com/ssutl/telegram-yearly-progress-bot/assets/76885270/bfcfadba-a02f-43fe-bbd7-90e6026b19e0)
-![image](https://github.com/ssutl/telegram-yearly-progress-bot/assets/76885270/2cee5682-96a0-41d5-9523-cdc75d35c2b9)
+![Screenshot 2024-06-30 213402](https://github.com/ssutl/telegram-yearly-progress-bot/assets/76885270/a9bcd10c-d82d-4299-a7f5-6f187fc36912)
+![Screenshot 2024-06-30 213317](https://github.com/ssutl/telegram-yearly-progress-bot/assets/76885270/bd7a21dc-8360-4fbe-8a49-1e1eea2e4a9b)
 
 
 
